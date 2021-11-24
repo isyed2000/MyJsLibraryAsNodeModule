@@ -1,5 +1,0 @@
-.headingmyJsLibrary
-{
-  color:red,
-  size:25
-}

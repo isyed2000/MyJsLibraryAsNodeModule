@@ -1,5 +1,5 @@
 {
-  "name": "myjslibraryasnodemodule",
+  "name": "myjslibraryasnpmpackage",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
